@@ -6,3 +6,5 @@ Regular expression check helper for email strings in JavaScript.
 Clone this project and look at the source files:
 - `index.html`
 - `validation.js`
+
+*Initialized by roberrrtttsmiiiith workspace automation.*
